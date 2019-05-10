@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfc9dfc8df92df9edfcedf9ddfcbdfc9dfccdf92dfc9dfc9df9cdfccdfc9df9bdf9bdfcbdfc8df99df9edfc8df98df92dfcedf93dfccdfcbdf9ddfccdf9cdf9bdf9bdf9adf99df99df9fdf9cdf9bdfcb</token>
+          <option name="name" value="whatstheweatherlike" />
+          <organizationKey>whatstheweatherlike</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
